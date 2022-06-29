@@ -1,1 +1,1 @@
-# https-github.com-prakriti42-Course-Management-System-In-Java
+Course-Management-System-In-Java
