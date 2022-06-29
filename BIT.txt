@@ -1,0 +1,20 @@
+level 4
+1. Academic Skills and Team Based Learning
+2. Introductory Programming and Problem Solving
+3. Fundamentals of Computing
+4. Embedded System Programming
+
+
+  level 5
+1. Concepts and Technologies of AI
+2. Object-Oriented Design and Programming
+3. Numerical Methods and Concurrency
+4. Distributed and Cloud System Programming
+
+
+  level 6
+1.Complex System
+2.High Performance Computing
+3.Project and Professionalism
+4.Artificial Intelligence and Machine Learnin
+5.Big Data
